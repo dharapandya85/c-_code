@@ -80,7 +80,7 @@ int main() {
     };
     cout << "Test 2: " << sol.lenOfDiagonal(grid2) << endl;
 
-    // ✅ Test Case 3: No diagonal pattern
+   Test Case 3: No diagonal pattern
     vector<vector<int>> grid3 = {
         {0, 0},
         {0, 0}
