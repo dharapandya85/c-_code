@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dhara/Desktop/C++/.vscode",
-      "program": "c:/Users/dhara/Desktop/C++/.vscode/build/Debug/outDebug",
+      "cwd": "c:/Users/username/Desktop/C++/.vscode",
+      "program": "c:/Users/username/Desktop/C++/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
