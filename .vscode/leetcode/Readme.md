@@ -42,5 +42,47 @@ Use this for compiling and running:
  g++ -std=c++17 fourth_solution.cpp -o fourth_solution
 ./fourth_solution
 
+for fifth_solution.cpp
+The output seems:
+
+![Screenshot (163)](https://github.com/user-attachments/assets/d17b1687-c4e1-4038-a408-7e7e5dd52916)
+
+Use the following for compiling and running
+
+ g++ -std=c++17 fifth_solution.cpp -o fifth_solution
+./fifth_solution
+
+for sixth_solution.cpp
+
+the output seems:
+
+![Screenshot (164)](https://github.com/user-attachments/assets/736efb11-83c3-4275-b02a-331ee8d2a02c)
+
+Use the following for compiling and running
+
+ g++ -std=c++17 sixth_solution.cpp -o sixth_solution
+./sixth_solution
+
+for seventh_solution.cpp
+
+the output seems:
+![Screenshot (165)](https://github.com/user-attachments/assets/e3ed5fcf-6d3a-4edb-aa94-bd0daa4c98b7)
+
+Use the following for compiling and running
+
+ g++ -std=c++17 seventh_solution.cpp -o seventh_solution
+./seventh_solution
+
+for eight_solution.cpp
+
+the output seems:
+
+![Screenshot (165)](https://github.com/user-attachments/assets/bf57b490-801b-4485-8e85-7f23b9a06204)
+
+Use the following for compiling and running
+
+ g++ -std=c++17 eighth_solution.cpp -o eigth_solution
+./eigth_solution
+
 
 
