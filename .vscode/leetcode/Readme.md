@@ -32,5 +32,15 @@ Use this for compiling and running:
 
  ./third_solution
 
- 
+ For fourth_solution.cpp
+ The output is:
+
+ ![Screenshot (162)](https://github.com/user-attachments/assets/e5a12aaa-f746-4f9e-a27a-a4d53ff51adb)
+
+ Use the following for compiling and running
+
+ g++ -std=c++17 fourth_solution.cpp -o fourth_solution
+./fourth_solution
+
+
 
