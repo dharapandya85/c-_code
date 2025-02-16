@@ -5,3 +5,4 @@ Use the following command to run:
 ./outDebug.exe
 
 The result must looks like:
+![Screenshot (158)](https://github.com/user-attachments/assets/5b7bc9ff-c16f-42ab-9d1d-610f6c61eb34)
