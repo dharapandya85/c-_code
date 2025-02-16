@@ -1,0 +1,7 @@
+Use this to compile:
+g++ -g -o outDebug.exe diagonal_segment.cpp
+
+Use the following command to run:
+./outDebug.exe
+
+The result must looks like:
