@@ -77,7 +77,8 @@ for eight_solution.cpp
 
 the output seems:
 
-![Screenshot (165)](https://github.com/user-attachments/assets/bf57b490-801b-4485-8e85-7f23b9a06204)
+![Screenshot (166)](https://github.com/user-attachments/assets/d14ae11d-8588-419a-a276-17b3b2eb0059)
+
 
 Use the following for compiling and running
 
